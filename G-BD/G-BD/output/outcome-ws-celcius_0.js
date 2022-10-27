@@ -1,0 +1,1 @@
+{"data":[{"CelsiusToFahrenheitResult":56.12,"degreesCelcius":13.4}]}
